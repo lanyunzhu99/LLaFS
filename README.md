@@ -3,6 +3,6 @@ We propose LLaFS, the first attempt to leverage large language models (LLMs) in 
 
 ![teaser](main_fig.png)
 
-This paper is under submission. We will release the code after paper acceptance. 
+This paper is under review. We will release the code after paper acceptance. 
 
 If you have any question, please feel free to contact the author by lanyun_zhu@mymail.sutd.edu.sg.
